@@ -3,7 +3,7 @@
 int main(){
 	printf("AAA");
 	printf("hello lightmerge");
-	printf("DDD");
+	printf("FB");
 	return 0;
 }
 
